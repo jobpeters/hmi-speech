@@ -1,7 +1,8 @@
+import com.opencsv.bean.CsvBindByName;
+
 import java.io.Serializable;
 
-import com.opencsv.bean.CsvBindByName;
-public class transcription implements Serializable {
+public class transcription implements Serializable{
     @CsvBindByName
     private String File;
     @CsvBindByName
