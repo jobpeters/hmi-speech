@@ -1,0 +1,19 @@
+File;Reference;Hypothesis;subs;dels;inserts;corrects;wer;wcr;precision;recall;fScore
+pest_gustav.wav; A pessimistic pest exists amidst us.;a pessimistic pest the metric system it's those ;3.0;1.0;2.0;3.0;0.8571428571428571;0.42857142857142855;0.2857142857142857;0.25;0.26666666666666666
+pest_ronald.wav; A pessimistic pest exists amidst us.;a pessimistic pest exists made status ;2.0;1.0;0.0;4.0;0.42857142857142855;0.5714285714285714;0.42857142857142855;0.5;0.4615384615384615
+pest_vincent.wav; A pessimistic pest exists amidst us.;a pessimistic best Texas %HESITATION it's the US ;4.0;1.0;2.0;2.0;1.0;0.2857142857142857;0.14285714285714285;0.125;0.13333333333333333
+wristwatches_gustav.wav; Which witch switched the Swiss wristwatches?;which which switched that Swiss wrist watches ;3.0;1.0;1.0;3.0;0.7142857142857143;0.42857142857142855;0.2857142857142857;0.2857142857142857;0.2857142857142857
+wristwatches_ronald.wav; Which witch switched the Swiss wristwatches?;which which switch the Swiss wrist watches ;3.0;1.0;1.0;3.0;0.7142857142857143;0.42857142857142855;0.2857142857142857;0.2857142857142857;0.2857142857142857
+wristwatches_vincent.wav; Which witch switched the Swiss wristwatches?;which of H. switched the Swiss wrist watches ;2.0;1.0;2.0;4.0;0.7142857142857143;0.5714285714285714;0.42857142857142855;0.375;0.39999999999999997
+seashells_gustav.wav; She sells seashells by the seashore.;she sells seashells by the seashore ;1.0;1.0;0.0;5.0;0.2857142857142857;0.7142857142857143;0.5714285714285714;0.6666666666666666;0.6153846153846153
+seashells_ronald.wav; She sells seashells by the seashore.;she sells seashells by the seashore ;1.0;1.0;0.0;5.0;0.2857142857142857;0.7142857142857143;0.5714285714285714;0.6666666666666666;0.6153846153846153
+seashells_vincent.wav; She sells seashells by the seashore.;she sells seashells by the seashore ;1.0;1.0;0.0;5.0;0.2857142857142857;0.7142857142857143;0.5714285714285714;0.6666666666666666;0.6153846153846153
+canner_gustav.wav; Can you can a can as a canner can can a can?;can you can I can I can I can I can I can ;6.0;1.0;1.0;6.0;0.6153846153846154;0.46153846153846156;0.38461538461538464;0.6153846153846154;0.4733727810650888
+canner_ronald.wav; Can you can a can as a canner can can a can?;can you count account as a counter can can attend ;4.0;3.0;0.0;6.0;0.5384615384615384;0.46153846153846156;0.6923076923076923;0.6;0.6428571428571429
+canner_vincent.wav; Can you can a can as a canner can can a can?;can you can the cat as a can of can can okay ;4.0;2.0;1.0;7.0;0.5384615384615384;0.5384615384615384;0.6923076923076923;0.6666666666666666;0.6792452830188679
+fanny_gustav.wav; Frivolously fanciful Fannie fried fresh fish furiously;previously fast full finally fried fresh fish furiously ;4.0;0.0;0.0;4.0;0.5;0.5;0.5;0.5;0.5
+fanny_ronald.wav; Frivolously fanciful Fannie fried fresh fish furiously;frivolously fanciful funny fried fresh fish furiously ;1.0;1.0;0.0;6.0;0.25;0.75;0.625;0.7142857142857143;0.6666666666666666
+fanny_vincent.wav; Frivolously fanciful Fannie fried fresh fish furiously;frivolously fanciful Fannie fight fresh fish furiously ;1.0;1.0;0.0;6.0;0.25;0.75;0.625;0.7142857142857143;0.6666666666666666
+coffee_gustav.wav; Give papa a cup of proper coffee in a copper coffee cup.;Hey give pop a Cup of coffee in the copper coffee Cup ;4.0;1.0;0.0;8.0;0.38461538461538464;0.6153846153846154;0.5384615384615384;0.5;0.5185185185185186
+coffee_ronald.wav; Give papa a cup of proper coffee in a copper coffee cup.;gift pop up a couple of proper coffee in a copper coffee Cup ;5.0;0.0;0.0;8.0;0.38461538461538464;0.6153846153846154;0.6153846153846154;0.6153846153846154;0.6153846153846154
+coffee_vincent.wav; Give papa a cup of proper coffee in a copper coffee cup.;give pop up a couple of public coffee in the Cup of coffee Cup ;6.0;1.0;2.0;6.0;0.6923076923076923;0.46153846153846156;0.46153846153846156;0.42857142857142855;0.4444444444444445
